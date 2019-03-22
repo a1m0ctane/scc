@@ -3,7 +3,7 @@ package eightball;
 import java.io.FileReader;
 
 public class EightBall {
-	//SCC comment
+	//SCC comment new code 
 	public static void main(String args[]) throws Exception {
 		char[] buffer = new char[1024];
 		String filename = args[0];
